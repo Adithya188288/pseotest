@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/",
-        "destination": "/landing-page-examples/",
+        "destination": "/pseotest/landing-page-examples/",
         "statusCode": 301
       }
     ]
